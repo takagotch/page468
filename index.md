@@ -1,5 +1,5 @@
 ---
-title: "無料案内所💁"
+title: "Fashion AbleTalents"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
