@@ -4,8 +4,8 @@ baseurl: "/mydoc-pdf"
 port: 4010
 output: pdf
 product: mydoc
-print_title: Jekyll theme for documentation — mydoc product
-print_subtitle: version 6.0
+print_title: Fashion AbleTalents — mydoc product
+print_subtitle: verion 2021
 output: pdf
 defaults:
   -
