@@ -1,7 +1,12 @@
 
 /_data/sidebars/mydoc_sidebar.yml
 ```
-
+entries:
+- title: sidebar
+  product: Jekyll Doc Theme
+  version: 6.0
+  folders:
+...
 ```
 
 
