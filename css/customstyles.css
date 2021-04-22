@@ -29,7 +29,7 @@ body {
     color: #777;
 }
 .bs-callout-primary {
-    border-left-color: #428bca;
+    border-left-color: #11175e; /* #428bca; */
 }
 .bs-callout-primary h4 {
     color: #428bca;
