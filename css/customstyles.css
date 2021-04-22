@@ -32,7 +32,7 @@ body {
     border-left-color: #11175e; /* #428bca; */
 }
 .bs-callout-primary h4 {
-    color: #428bca;
+    color: #11175e; /* #428bca; */
 }
 .bs-callout-success {
     border-left-color: #5cb85c;
