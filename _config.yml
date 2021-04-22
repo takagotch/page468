@@ -3,10 +3,10 @@ repository: takagotch/page75
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: 最強の風俗案内所
+topnav_title: Fashion AbleTalents
 # this appears on the top navigation bar next to the home button
 
-site_title: 運命の出会いが待っています♡で10%オフ
+site_title: ヒットが見えるファッションを中心にライフスタイルを掲載する情報サイト。
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: tkvtv
